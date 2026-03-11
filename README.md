@@ -1,9 +1,9 @@
 # 🔎 Image Search Web App
 
-[HTML](https://img.shields.io/badge/HTML-41%25-orange)
-[CSS](https://img.shields.io/badge/CSS-36%25-blue)
-[JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
-[License](https://img.shields.io/badge/License-MIT-3%25-green)
+![HTML](https://img.shields.io/badge/HTML-41%25-orange)
+![CSS](https://img.shields.io/badge/CSS-36%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![License](https://img.shields.io/badge/License-MIT-3%25-green)
 
 
 ![HTML](https://img.shields.io/badge/HTML-67%25-orange)
