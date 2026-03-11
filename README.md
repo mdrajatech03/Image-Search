@@ -19,8 +19,6 @@ You can view the project by opening the index.html file in your browser.
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
-
 ![Project Screenshot](screenshot.jpg)
 
 ---
