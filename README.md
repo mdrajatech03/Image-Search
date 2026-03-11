@@ -2,12 +2,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-41%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-36%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
-![License](https://img.shields.io/badge/License-MIT-3%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-23%25-yellow)
 
-
-![HTML](https://img.shields.io/badge/HTML-67%25-orange)
-![CSS](https://img.shields.io/badge/CSS-33%25-blue)
 
 A modern and responsive Image Search Web Application built using HTML, CSS, and JavaScript.
 This project allows users to search and display images dynamically using an image API.
