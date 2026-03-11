@@ -14,8 +14,7 @@ This project allows users to search and display images dynamically using an imag
 
 You can view the project by opening the index.html file in your browser.
 
-**👉🏻[Show Project](https://github.com/mdrajatech03/Image-Search/)**
-
+**👉🏻[Show Project](https://mdrajatech03.github.io/Image-Search/)**
 ---
 
 ## 📸 Screenshot
@@ -81,7 +80,7 @@ git clone https://github.com/yourusername/Image-Search.git
 
 Developed by Md Raja
 
-**[GitHub](https://github.commdrajatech03)**
+**[GitHub](https://github.com/mdrajatech03)**
 
 ---
 
